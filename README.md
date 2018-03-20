@@ -1,5 +1,7 @@
 # IMDb Website Redesign - Desktop Version - InVision Prototype
 
+https://filipago.github.io/imdb-redesign-desktop-site-prototype/
+
 ## Redesign Goals:
 
 * Enhance the website's usability and navigation capabilities;
