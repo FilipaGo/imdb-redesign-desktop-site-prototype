@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-desktop-site-prototype/master/_images_readme/imdb_mocks%402x.png" width="1000" />
 <br></br>
 
-https://filipago.github.io/imdb-redesign-desktop-site-prototype/
+👉 https://filipago.github.io/imdb-redesign-desktop-site-prototype/
 
 ## Redesign Goals:
 
@@ -20,3 +20,7 @@ New designs were developed for the **login page**, **homepage**, **search**, **m
 * Login
 * After entering the Homepage as a registered user, Scroll to “Popular this Week” section and click to see “Tetro” movie page;
 * After entering the movie page, click on the tab “Cast & Crew” to see “Alden Ehrenreich” celebrity page.
+
+***
+
+You can find the [Mobile Version here](https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype)
