@@ -1,5 +1,9 @@
 # IMDb Website Redesign - Desktop Version - InVision Prototype
 
+<br></br>
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-desktop-site-prototype/master/_images_readme/imdb_mocks%402x.png" width="1000" />
+<br></br>
+
 https://filipago.github.io/imdb-redesign-desktop-site-prototype/
 
 ## Redesign Goals:
