@@ -2,7 +2,7 @@
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_redesign.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-desktop-site-prototype/master/_images_readme/imdb_redesign.jpg" width="1000" />
 Homepage Redesign (mobile and desktop).
 </p>
 <br></br>
@@ -55,7 +55,7 @@ IMDb is the largest movie and TV fan community where registered users can submit
 IMDb’s website design hasn’t changed much over the years, which is noticeable not only visually but also interaction wise. Surprisingly, to this day, the website still isn’t responsive, even though it has a mobile version and a mobile app, both for smartphone and tablet.
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_wayback.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-desktop-site-prototype/master/_images_readme/imdb_wayback.jpg" width="1000" />
 Left to right: IMDb's Website in the early 90's, in 2002 and 2016.
 </p>
 <br></br>
@@ -75,7 +75,7 @@ __Main Goals:__
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_screenshots-2016.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-desktop-site-prototype/master/_images_readme/imdb_screenshots-2016.jpg" width="1000" />
 IMDb's original Website in late 2016. Left to right: Homepage, Movie Page and Celebrity Page.
 </p>
 <br></br>
@@ -93,7 +93,7 @@ I kicked off this project by conducting a benchmarking analysis on 3 competitors
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_benchmarking01.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-desktop-site-prototype/master/_images_readme/imdb_benchmarking01.jpg" width="1000" />
 Benchmarking Analysis Table.
 </p>
 <br></br>
@@ -104,7 +104,7 @@ All three competitor websites were easier to navigate, more organized and cleane
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_benchmarking02.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-desktop-site-prototype/master/_images_readme/imdb_benchmarking02.jpg" width="1000" />
 The Movie DB Benchmarking Detail.
 </p>
 <br></br>
@@ -113,7 +113,7 @@ I carried on with a SWOT Analysis on IMDB’s website and came to the conclusion
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_swot.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-desktop-site-prototype/master/_images_readme/imdb_swot.jpg" width="1000" />
 IMDb SWOT Analysis.
 </p>
 <br></br>
@@ -122,7 +122,7 @@ IMDb’s users can be quite diverse. With over 240 million unique monthly visito
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/google_search.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-desktop-site-prototype/master/_images_readme/google_search.jpg" width="1000" />
 Search results from Google.
 </p>
 <br></br>
@@ -137,8 +137,8 @@ The 3 proto-personas that seemed to fit my research, helped me develop a sense o
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_personas.jpg" width="1000" />
-Proto-personas. Larger images can be found <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/tree/master/_images_readme/personas_userflows" >here</a>.</p>
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-desktop-site-prototype/master/_images_readme/imdb_personas.jpg" width="1000" />
+Proto-personas. Larger images can be found <a href="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/tree/master/_images_readme/personas_userflows" >here</a>.</p>
 <br></br>
 
 Through this process, I was able to identify IMDb’s main target-audience: individuals who love the movies, enjoy watching trailers and keeping up with the latest premieres and news.
@@ -151,24 +151,24 @@ Documenting every little content detail on the Homepage, Movie Page and Celebrit
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_content-inventory.jpg" width="1000" />
-IMDb's Content Inventory 😅. If you want to check the details, <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_docs_readme/imdb_content-inventory.xlsx" >download the file here</a>.</p>
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-desktop-site-prototype/master/_images_readme/imdb_content-inventory.jpg" width="1000" />
+IMDb's Content Inventory 😅. If you want to check the details, <a href="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_docs_readme/imdb_content-inventory.xlsx" >download the file here</a>.</p>
 <br></br>
 
 Documenting the current website’s information architecture confirmed that the way the main navigation was organized didn’t seem adequate, as it combined options on the top level menu that didn’t relate very well.
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_info-architecture_old.jpg" width="1000" />
-IMDb's original Information Architecture. To check the whole document, <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_docs_readme/info-architecture_old.pdf" >download the pdf file here</a>.</p>
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-desktop-site-prototype/master/_images_readme/imdb_info-architecture_old.jpg" width="1000" />
+IMDb's original Information Architecture. To check the whole document, <a href="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_docs_readme/info-architecture_old.pdf" >download the pdf file here</a>.</p>
 <br></br>
 
 I refined the demographic and behavioral proto-personas’ characters and went on creating user flows.
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_userflows.jpg" width="1000" />
-User Flows. Larger images can be found <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/tree/master/_images_readme/personas_userflows" >here</a>.</p>
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-desktop-site-prototype/master/_images_readme/imdb_userflows.jpg" width="1000" />
+User Flows. Larger images can be found <a href="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/tree/master/_images_readme/personas_userflows" >here</a>.</p>
 <br></br>
 
 Looking at the original Information Architecture I noticed that grouping together very large subjects into a single menu option raised the number of second-level options, increasing the navigation’s complexity.
@@ -179,21 +179,21 @@ I chose to name the “news” menu entry “news and events”, placing the “
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-mobile-site-prototype/master/_images_readme/imdb_info-architecture_new01.jpg" width="1000" />
-To move things around with ease and iterate faster, I decided to first use a spreadsheet to design IMDb's new Information Architecture. You can <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_docs_readme/info-architecture_new.xlsx" >download the file here</a> if you're curious.</p>
+<img src="https://raw.githubusercontent.com/FilipaGo/imdb-redesign-desktop-site-prototype/master/_images_readme/imdb_info-architecture_new01.jpg" width="1000" />
+To move things around with ease and iterate faster, I decided to first use a spreadsheet to design IMDb's new Information Architecture. You can <a href="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_docs_readme/info-architecture_new.xlsx" >download the file here</a> if you're curious.</p>
 <br></br>
 
 <br></br>
 <p align="center">
-<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_info-architecture_new02.jpg" width="1000" />
-IMDb's new Information Architecture detail. <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_docs_readme/info-architecture_new.xlsx" >Download the pdf file here</a> to check the whole tree.</p>
+<img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_info-architecture_new02.jpg" width="1000" />
+IMDb's new Information Architecture detail. <a href="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_docs_readme/info-architecture_new.xlsx" >Download the pdf file here</a> to check the whole tree.</p>
 <br></br>
 
 By adjusting the top level menu, I was able to redesign a more consistent and simple main navigation, substantially reducing the complexity of the unfolded menu.
 
 <br></br>
 <p align="center">
-<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_info-architecture_nav.jpg" width="1000" />
+<img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_info-architecture_nav.jpg" width="1000" />
 IMDb's new Main Navigation. Makes more sense, right?</p>
 <br></br>
 
@@ -201,7 +201,7 @@ The main navigation was built upon my user research and perception of what most 
 
 <br></br>
 <p align="center">
-<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_balsamic-wireframes01.jpg" width="1000" />
+<img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_balsamic-wireframes01.jpg" width="1000" />
 IMDb's Wireframes.</p>
 <br></br>
 
@@ -211,8 +211,8 @@ With my previous research in mind and the content inventory, I tried to design f
 
 <br></br>
 <p align="center">
-<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_balsamic-wireframes02.jpg" width="1000" />
-IMDb's Wireframes. From left to right: Homepage, Movie Page, Celebrity Page. You can <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/tree/master/_images_readme/wireframes" >check the larger images here</a>.</p>
+<img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_balsamic-wireframes02.jpg" width="1000" />
+IMDb's Wireframes. From left to right: Homepage, Movie Page, Celebrity Page. You can <a href="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/tree/master/_images_readme/wireframes" >check the larger images here</a>.</p>
 <br></br>
 
 IMDb is a content-heavy, exceedingly detailed website, but it didn’t seem right to just start cutting things off. As I said before, IMDb has a large and very diverse audience, from casual users to movie lovers, so what may not appeal to some, might be a treasure to others.
@@ -225,15 +225,15 @@ I bared the design to content blocks, grouped the pages' contents by themes and 
 
 <br></br>
 <p align="center">
-<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_content-wireframes_movie-page.jpg" width="1000" />
-My content blocks for the Movie Page… You can <a href="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/tree/master/_images_readme/wireframes/content_blocks" >check the larger images here</a></p>
+<img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_content-wireframes_movie-page.jpg" width="1000" />
+My content blocks for the Movie Page… You can <a href="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/tree/master/_images_readme/wireframes/content_blocks" >check the larger images here</a>.</p>
 <br></br>
 
 When designing a webpage with so much information and details, the user can easily feel lost; it was imperative to establish a clear hierarchy of information so that just by scanning the page, people could get a clear idea of what they could find and read about.
 
 <br></br>
 <p align="center">
-<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_content-wireframes_people-page.jpg" width="1000" />
+<img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_content-wireframes_people-page.jpg" width="1000" />
 My content blocks for the Celebrity Page…</p>
 <br></br>
 
@@ -244,7 +244,7 @@ Giving people enough content to understand what’s available and provide furthe
 #### User Interface Design
 
 <p align="center">
-<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_styles.jpg" width="1000" />
+<img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_styles.jpg" width="1000" />
 IMDb's new color palette and fonts.</p>
 <br></br>
 
@@ -253,7 +253,7 @@ IMDb's new color palette and fonts.</p>
 
 <br></br>
 <p align="center">
-<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_sketch-mockups.jpg" width="1000" />
+<img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_sketch-mockups.jpg" width="1000" />
 IMDb's Mockups.</p>
 <br></br>
 
@@ -263,7 +263,7 @@ I kept the contents that are updated more frequently on the homepage, to stimula
 
 <br></br>
 <p align="center">
-<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_homepage-no-login01.jpg" width="1000" />
+<img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_homepage-no-login01.jpg" width="1000" />
 IMDb's Homepage before the user logs in (detail).</p>
 <br></br>
 
@@ -271,7 +271,7 @@ I separated the login from the registry, giving more prominence to the registry 
 
 <br></br>
 <p align="center">
-<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_login.jpg" width="1000" />
+<img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_login.jpg" width="1000" />
 IMDb's Login Page.</p>
 <br></br>
 
@@ -279,7 +279,7 @@ The login page is also more captivating, as the background image randomly change
 
 <br></br>
 <p align="center">
-<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_homepage-login-utility-nav.jpg" width="1000" />
+<img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_homepage-login-utility-nav.jpg" width="1000" />
 IMDb's Homepage after the user logs in. First level mobile menu and user's menu on desktop when clicked.</p>
 <br></br>
 
@@ -289,7 +289,7 @@ As searching is a major entry point while navigating IMDb’s website, I gave th
 
 <br></br>
 <p align="center">
-<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_search.jpg" width="1000" />
+<img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_search.jpg" width="1000" />
 IMDb's search modal.</p>
 <br></br>
 
@@ -299,7 +299,7 @@ All search results present a colored label to enable a quick and easy scan (sear
 
 <br></br>
 <p align="center">
-<img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_homepage-hero+movies.jpg" width="1000" />
+<img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_homepage-hero+movies.jpg" width="1000" />
 IMDb's Homepage detail. Hovering a movie unveils the film details.</p>
 <br></br>
 
@@ -315,7 +315,7 @@ The “Movies” section displays a slider with a list of all movies available t
 
  <br></br>
  <p align="center">
- <img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_homepage-news.jpg" width="1000" />
+ <img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_homepage-news.jpg" width="1000" />
  IMDb's Homepage news section.</p>
  <br></br>
 
@@ -323,7 +323,7 @@ The “Movies” section displays a slider with a list of all movies available t
 
  <br></br>
  <p align="center">
- <img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_homepage-popular.jpg" width="1000" />
+ <img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_homepage-popular.jpg" width="1000" />
  IMDb's Homepage "Popular this Week" section. Hovering an item unveils more detailed information.</p>
  <br></br>
 
@@ -331,7 +331,7 @@ The “Movies” section displays a slider with a list of all movies available t
 
  <br></br>
  <p align="center">
- <img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_homepage-born.jpg" width="1000" />
+ <img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_homepage-born.jpg" width="1000" />
  IMDb's Homepage "Born Today" section. Hovering the user's photo on desktop, shows him a special birthday message.</p>
  <br></br>
 
@@ -339,7 +339,7 @@ The “Movies” section displays a slider with a list of all movies available t
 
  <br></br>
  <p align="center">
- <img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_homepage-footer.jpg" width="1000" />
+ <img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_homepage-footer.jpg" width="1000" />
  IMDb's Homepage Footer.</p>
  <br></br>
 
@@ -349,7 +349,7 @@ The “Movies” section displays a slider with a list of all movies available t
 
  <br></br>
  <p align="center">
- <img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_movie-page.jpg" width="1000" />
+ <img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_movie-page.jpg" width="1000" />
  IMDb's Movie Page detail.</p>
  <br></br>
 
@@ -359,7 +359,7 @@ The “Movies” section displays a slider with a list of all movies available t
 
  <br></br>
  <p align="center">
- <img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_celebrity-page.jpg" width="1000" />
+ <img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_celebrity-page.jpg" width="1000" />
  IMDb's Celebrity Page detail.</p>
  <br></br>
 
@@ -369,7 +369,7 @@ The “Movies” section displays a slider with a list of all movies available t
 
  <br></br>
  <p align="center">
- <img src="https://github.com/FilipaGo/imdb-redesign-mobile-site-prototype/raw/master/_images_readme/imdb_mockups.jpg" width="1000" />
+ <img src="https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype/raw/master/_images_readme/imdb_mockups.jpg" width="1000" />
  IMDb Mockups. From left to right: Homepage, Movie Page, Celebrity Page. Check the prototypes for more details!</p>
  <br></br>
 
