@@ -12,14 +12,10 @@ Homepage Redesign (mobile and desktop).
 </p>
 
 <p align="right">
-<i>```Estimated reading time: 14 minutes (2718 words)```</i>
+<i>`code`Estimated ```reading``` time: 14 minutes (2718 words)</i>
 </p>
 
 <i>```Estimated reading time: 14 minutes (2718 words)```</i>
-
-```<i>Estimated reading time: 14 minutes (2718 words)</i>```
-
-```Estimated reading time: 14 minutes (2718 words)```
 
 Inline `code` has `back-ticks around` it.
 
