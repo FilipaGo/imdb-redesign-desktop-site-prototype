@@ -7,7 +7,11 @@ Homepage Redesign (mobile and desktop).
 </p>
 <br></br>
 
-<p style="align:right;font-size:46px;">
+<p style="font-family:'Myriad Pro','sans-serif'; font-size:10.0pt; color:#BE2D0F;">
+text
+</p>
+
+<p align:"right" font-size:"46px";>
 Estimated reading time: 14 minutes (2718 words)
 </p>
 
