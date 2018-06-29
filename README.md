@@ -8,7 +8,7 @@ Homepage Redesign (mobile and desktop).
 <br></br>
 
 <p align="right">
-`Estimated reading time: 14 minutes (2718 words)`
+<mark>_Estimated reading time: 14 minutes (2718 words)_</mark>
 </p>
 
 ## Project Summary
