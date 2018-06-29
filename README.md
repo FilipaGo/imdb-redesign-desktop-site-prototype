@@ -7,19 +7,17 @@ Homepage Redesign (mobile and desktop).
 </p>
 <br></br>
 
-<p style="text-align:right; font-size:10.0pt; color:#BE2D0F;">
-text
-</p>
-
 <p align="right">
 <i>Estimated reading time: 14 minutes (2718 words)</i>
 </p>
 
-<p align="right" font-color="#BE2D0F">
-Estimated reading time: 14 minutes (2718 words)
+<p align="right">
+<i>```Estimated reading time: 14 minutes (2718 words)```</i>
 </p>
 
-<p font-style="italic">
+
+
+<p align="right" font-color="#BE2D0F">
 Estimated reading time: 14 minutes (2718 words)
 </p>
 
