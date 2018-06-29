@@ -7,7 +7,7 @@ Homepage Redesign (mobile and desktop).
 </p>
 <br></br>
 
-<p style="font-family:'Myriad Pro','sans-serif'; font-size:10.0pt; color:#BE2D0F;">
+<p style="text-align:right; font-size:10.0pt; color:#BE2D0F;">
 text
 </p>
 
