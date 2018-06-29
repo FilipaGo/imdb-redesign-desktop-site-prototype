@@ -7,19 +7,7 @@ Homepage Redesign (mobile and desktop).
 </p>
 <br></br>
 
-<p align="right">
-<i>Estimated reading time: 14 minutes (2718 words)</i>
-</p>
-
-<p align="right">
-<i>`code`Estimated ```reading``` time: 14 minutes (2718 words)</i>
-</p>
-
 <i>```Estimated reading time: 14 minutes (2718 words)```</i>
-
-Inline `code` has `back-ticks around` it.
-
-
 
 ## Project Summary
 
