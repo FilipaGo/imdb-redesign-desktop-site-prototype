@@ -12,13 +12,13 @@ Homepage Redesign (mobile and desktop).
 
 * [Project Summary](https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype#project-summary)</br>
 * [Project Case Study](https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype#project-case-study)</br>
- * [Context](https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype#context)</br>
- * [Problem](https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype#problem)</br>
- * [Redesign Goals and Scope](https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype#redesign-goals-and-scope)</br>
- * [Methodology](https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype#methodology)</br>
-   * [Research](https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype#research)</br>
-   * [Interaction Design](https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype#interaction-design)</br>
-   * [User Interface Design](https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype#user-interface-design)</br>
+  * [Context](https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype#context)</br>
+  * [Problem](https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype#problem)</br>
+  * [Redesign Goals and Scope](https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype#redesign-goals-and-scope)</br>
+  * [Methodology](https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype#methodology)</br>
+    * [Research](https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype#research)</br>
+    * [Interaction Design](https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype#interaction-design)</br>
+    * [User Interface Design](https://github.com/FilipaGo/imdb-redesign-desktop-site-prototype#user-interface-design)</br>
 
 ## Project Summary
 
